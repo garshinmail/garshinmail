@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## My name is Aleksei Garshin
-I'm starting IT Career as Data Scientist
+I'm starting IT Career as Data Scientist. I graduated from the Practicum, participate in hackathons and actively learn new things.
 ## Tools:
 Python, Pandas, Numpy, Matplotlib, Scikit-learn, LightGBM, CatBoost, Tf-idf, BERT, PostrgreSQL, Keras
 # Портфолио
