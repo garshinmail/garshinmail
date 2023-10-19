@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+## My name is Aleksei Garshin
+I'm starting IT Career as Data Scientist
+## Tools:
+Python, Pandas, Numpy, Matplotlib, Scikit-learn, LightGBM, CatBoost, Tf-idf, BERT, PostrgreSQL, Keras
 # Портфолио
 Ниже приведены некоторые проекты, выполненные в рамках участия в хакатонах и обучения:
 |Наименование проекта | Описание  | Стек|
